@@ -1,6 +1,4 @@
-# leetcode
-
-
+# algorithm
 
 ### 参考
 
